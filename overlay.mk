@@ -189,6 +189,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-teracube-2e \
 	treble-overlay-teracube-v7101o \
 	treble-overlay-tethering \
+	treble-overlay-ulefone-armorx8 \
 	treble-overlay-umidigi-A3S \
 	treble-overlay-umidigi-power \
 	treble-overlay-unihertz-jelly2 \

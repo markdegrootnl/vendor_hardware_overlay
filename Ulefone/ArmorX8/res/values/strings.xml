@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install_ptt_app_remind">Please set up PTT APP, set Zello, please first install Zello.apk in the Files - Apps - App install files</string>
+</resources>
